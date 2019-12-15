@@ -1,3 +1,5 @@
+//Jesus Zamora Plot.ly homework. Dashboard works on local machine. 
+
 function buildMetadata(sample) {
 
   // @TODO: Complete the following function that builds the metadata panel
